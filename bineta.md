@@ -1,1 +1,1 @@
-My name is Bineta and I love learning new things.
+My name is Bineta and I love writing clean code.
